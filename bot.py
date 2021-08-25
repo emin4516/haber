@@ -10,7 +10,7 @@ from time import sleep
 from colorama import Fore
 import datetime
 
-bot = telebot.TeleBot('1220887328:AAFjQdnTuwIRi7qg00PI9up6JOUDhjBqgwk')  # Установка токена бота
+bot = telebot.TeleBot('1837930883:AAG3LVaoenqPF18T2Vq6-uNBz2cs57Gpwo0')  # Установка токена бота
 admins = [551019360]
 
 
